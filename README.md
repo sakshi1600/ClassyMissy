@@ -1,2 +1,1 @@
-# ClassyMissy
-Its a shopping cart which is design in Laravel.
+Head Member Assignment in php
